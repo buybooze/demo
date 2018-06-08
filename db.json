@@ -1,21 +1,23 @@
-[{
-		"id": 1,
-		"humidity": 10,
-		"date_time": "will be implemented"
-	},
-	{
-		"id": 2,
-		"humidity": 15,
-		"date_time": "will be implemented"
-	},
-	{
-		"id": 3,
-		"humidity": 100,
-		"date_time": "will be implemented"
-	},
-	{
-		"id": 4,
-		"humidity": 56,
-		"date_time": "will be implemented"
-	}
-]
+{
+	"data": [{
+			"id": 1,
+			"humidity": 10,
+			"date_time": "will be implemented"
+		},
+		{
+			"id": 2,
+			"humidity": 15,
+			"date_time": "will be implemented"
+		},
+		{
+			"id": 3,
+			"humidity": 100,
+			"date_time": "will be implemented"
+		},
+		{
+			"id": 4,
+			"humidity": 56,
+			"date_time": "will be implemented"
+		}
+	]
+}
