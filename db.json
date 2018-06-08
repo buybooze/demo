@@ -1,4 +1,5 @@
-[{
+{
+	data:[{
 		"id": 1,
 		"humidity": 10,
 		"date_time": "will be implemented"
@@ -19,3 +20,4 @@
 		"date_time": "will be implemented"
 	}
 ]
+}
