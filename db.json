@@ -2,27 +2,27 @@
   "data": [
     {
       "date_time": "2018-06-04T12:00:00.000-0700", 
-      "humidity": 22.4, 
+      "humidity": 150, 
       "id": 1
     }, 
     {
       "date_time": "2018-06-04T13:00:00.000-0700", 
-      "humidity": 22.4, 
+      "humidity": 160, 
       "id": 2
     }, 
     {
       "date_time": "2018-06-04T14:00:00.000-0700", 
-      "humidity": 50, 
+      "humidity": 170, 
       "id": 3
     }, 
     {
       "date_time": "2018-06-04T15:00:00.000-0700", 
-      "humidity": 56, 
+      "humidity": 178, 
       "id": 4
     }, 
     {
       "date_time": "2018-06-04T16:00:00.000-0700", 
-      "humidity": 53, 
+      "humidity": 30, 
       "id": 5
     }, 
     {
